@@ -12,3 +12,5 @@ LazyData: true
 URL: https://github.com/kurt0005/MATH4753KURT
 BugReports: https://github.com/kurt0005/MATH4753KURT/issues
 RoxygenNote: 7.1.1
+Depends: 
+    R (>= 2.10)

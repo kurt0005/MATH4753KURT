@@ -5,7 +5,7 @@
 #' @param a
 #'
 #' @return Plots the curve, shades the probability, and calculates the area.
-#' @export
+#' @export curve
 #'
 #' @examples
 #' \dontrun{myncurve(mu=10,sigma=5,a=6)}
