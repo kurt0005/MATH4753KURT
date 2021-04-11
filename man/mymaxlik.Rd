@@ -4,10 +4,10 @@
 \alias{mymaxlik}
 \title{Title mymaxlik}
 \usage{
-mymaxlik(lfun, x, param, ...)
+mymaxlik(lfun, x, param)
 }
 \arguments{
-\item{...}{}
+\item{param}{}
 }
 \value{
 
