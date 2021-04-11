@@ -3,13 +3,13 @@
 #' @param lfun
 #' @param x
 #' @param param
+#' @param ...
 #'
-#'
-#' @return
+#' @return max likelihood
 #' @export
 #'
 #' @examples
-mymaxlik=function(lfun,x,param){
+mymaxlik=function(lfun,x,param,...){
   # how many param values are there?
   np=length(param)
   # outer -- notice the order, x then param
