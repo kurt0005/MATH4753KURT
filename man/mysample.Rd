@@ -20,5 +20,5 @@ A barplot
 My sample
 }
 \examples{
-\dontrun{a <- 1000, b <- 10, c <- 1; mysample(n=a,iter=b,time=c)}
+
 }

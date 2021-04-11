@@ -9,7 +9,7 @@
 #' @export
 #'
 #' @examples
-#' \dontrun {mycltp=function(n,iter,lambda)}
+#'
 mycltp=function(n,iter,lambda=10,...){
 
   ## r-random sample from the Poisson

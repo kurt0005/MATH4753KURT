@@ -16,5 +16,5 @@ A vector of squared components
 My first R function
 }
 \examples{
-y <- 1:10; myfirstfun(y)
+
 }

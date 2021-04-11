@@ -16,5 +16,5 @@ Plots the curve, shades the probability, and calculates the area.
 Curve function for Lab 6
 }
 \examples{
-\dontrun{myncurve(mu=10,sigma=5,a=6)}
+
 }

@@ -16,5 +16,5 @@ A histogram of the sample poisson distribution with a denisty curve, a barplot, 
 Title CLT Poisson Distribution
 }
 \examples{
-\dontrun {mycltp=function(n,iter,lambda)}
+
 }

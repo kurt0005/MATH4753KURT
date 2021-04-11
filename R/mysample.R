@@ -8,7 +8,7 @@
 #' @export
 #'
 #' @examples
-#' \dontrun{a <- 1000, b <- 10, c <- 1; mysample(n=a,iter=b,time=c)}
+#'
 mysample=function(n, iter=10,time=0.5){
   for( i in 1:iter){
 

@@ -16,5 +16,5 @@ y values of plot
 Vector for a lab 4 plot
 }
 \examples{
-\dontrun{d <- 1:40; myplot(x=d)}
+
 }
